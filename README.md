@@ -14,7 +14,8 @@ trying to implement the code of path and operation
 gone through website of RESTAPI (https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/)
 getting a data from REST SERVER
 Date : 09-02-2021
-creating login system in angular and fast API(https://medium.com/swlh/creating-login-system-in-angular-and-fastapi-9fd957472409)
+creating login system in angular and fast API
+
 
 
 
