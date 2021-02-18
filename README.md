@@ -15,7 +15,10 @@ gone through website of RESTAPI (https://www.freecodecamp.org/news/rest-api-tuto
 getting a data from REST SERVER
 Date : 09-02-2021
 creating login system in angular and fast API
-
+Date : 17-02-2021
+creating login page in angular(https://jasonwatmore.com/post/2020/04/28/angular-9-user-registration-and-login-example-tutorial)
+Date : 18-02-2021
+modify log in page
 
 
 
